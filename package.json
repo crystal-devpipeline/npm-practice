@@ -1,0 +1,12 @@
+{
+  "name": "moment",
+  "version": "1.0.0",
+  "description": "npm homework practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "focus",
+    "burrito": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
